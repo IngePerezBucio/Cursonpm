@@ -13,9 +13,16 @@
   ],
   "author": "Jorge Pérez Bucio <jpr6at@gmail.com>",
   "license": "MIT",
-
-  "bin":{
-    "random-msg":"./bin/global.js"
+  "bin": {
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngePerezBucio/Cursonpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IngePerezBucio/Cursonpm/issues"
+  },
+  "homepage": "https://github.com/IngePerezBucio/Cursonpm#readme"
 }
